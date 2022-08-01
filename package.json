@@ -1,0 +1,7 @@
+{
+  "name": "node-kjplsj",
+  "dependencies": {
+    "@angular/cli": "^14.1.0",
+    "g": "^2.0.1"
+  }
+}
